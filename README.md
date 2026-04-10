@@ -60,7 +60,8 @@ This project analyzes customer shopping behavior using transactional data to unc
 - Product performance  
 - Purchase trends  
 
-> ⚠️ Add dashboard screenshots here
+
+<img width="1317" height="720" alt="Screenshot 2026-04-10 160652" src="https://github.com/user-attachments/assets/5402b3c2-5e5e-4132-9da1-ac8717524f6d" />
 
 ---
 
